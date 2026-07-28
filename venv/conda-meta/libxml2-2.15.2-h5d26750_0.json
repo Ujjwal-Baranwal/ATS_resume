@@ -1,0 +1,57 @@
+{
+  "build": "h5d26750_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "icu <0.0a0"
+  ],
+  "depends": [
+    "libiconv >=1.18,<2.0a0",
+    "liblzma >=5.8.2,<6.0a0",
+    "libxml2-16 2.15.2 h692994f_0",
+    "libzlib >=1.3.1,<2.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\libxml2-2.15.2-h5d26750_0",
+  "files": [
+    "Library/bin/xmlcatalog.exe",
+    "Library/bin/xmllint.exe"
+  ],
+  "fn": "libxml2-2.15.2-h5d26750_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\anaconda3\\pkgs\\libxml2-2.15.2-h5d26750_0",
+    "type": 1
+  },
+  "md5": "1007e1bfe181a2aee214779ee7f13d30",
+  "name": "libxml2",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\libxml2-2.15.2-h5d26750_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/xmlcatalog.exe",
+        "path_type": "hardlink",
+        "sha256": "da0b5140e75e36a49752f9d98095533f4b9dfa07f7072a978f2d96e22855d823",
+        "sha256_in_prefix": "da0b5140e75e36a49752f9d98095533f4b9dfa07f7072a978f2d96e22855d823",
+        "size_in_bytes": 20480
+      },
+      {
+        "_path": "Library/bin/xmllint.exe",
+        "path_type": "hardlink",
+        "sha256": "7e83e6386588664338401f03dd76d75037d21577cc5e9354f107a91d8835df3d",
+        "sha256_in_prefix": "7e83e6386588664338401f03dd76d75037d21577cc5e9354f107a91d8835df3d",
+        "size_in_bytes": 66560
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f905eb7046987c336122121759e7f09144729f6898f48cd06df2a945b86998d8",
+  "size": 43681,
+  "subdir": "win-64",
+  "timestamp": 1772704748000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libxml2-2.15.2-h5d26750_0.conda",
+  "version": "2.15.2"
+}

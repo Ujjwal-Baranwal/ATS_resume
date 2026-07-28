@@ -1,0 +1,95 @@
+{
+  "build": "h57928b3_233",
+  "build_number": 233,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "D:\\anaconda3\\pkgs\\onemkl-license-2026.1.0-h57928b3_233",
+  "files": [
+    "share/doc/mkl/licensing/third-party-programs-IntelMPI.txt",
+    "share/doc/mkl/licensing/third-party-programs-benchmarks.txt",
+    "share/doc/mkl/licensing/third-party-programs-level-zero.txt",
+    "share/doc/mkl/licensing/third-party-programs-oneMath.txt",
+    "share/doc/mkl/licensing/third-party-programs-oneTBB.txt",
+    "share/doc/mkl/licensing/third-party-programs-openmp.txt",
+    "share/doc/mkl/licensing/third-party-programs-safestring.txt",
+    "share/doc/mkl/licensing/third-party-programs.txt"
+  ],
+  "fn": "onemkl-license-2026.1.0-h57928b3_233.conda",
+  "license": "LicenseRef-IntelSimplifiedSoftwareOct2022",
+  "link": {
+    "source": "D:\\anaconda3\\pkgs\\onemkl-license-2026.1.0-h57928b3_233",
+    "type": 1
+  },
+  "md5": "1566e2ce8c3bc23a2feb866c4d9e91e3",
+  "name": "onemkl-license",
+  "package_tarball_full_path": "D:\\anaconda3\\pkgs\\onemkl-license-2026.1.0-h57928b3_233.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "share/doc/mkl/licensing/third-party-programs-IntelMPI.txt",
+        "path_type": "hardlink",
+        "sha256": "82fa46762c37662a52ab9df58781813c1dc6c268ae2b6f9cf2d83183e706aa09",
+        "sha256_in_prefix": "82fa46762c37662a52ab9df58781813c1dc6c268ae2b6f9cf2d83183e706aa09",
+        "size_in_bytes": 77510
+      },
+      {
+        "_path": "share/doc/mkl/licensing/third-party-programs-benchmarks.txt",
+        "path_type": "hardlink",
+        "sha256": "1f1224af12a7d3e51150ce6f762e32472076a31f6e44db41d3b651a7fa20f2f5",
+        "sha256_in_prefix": "1f1224af12a7d3e51150ce6f762e32472076a31f6e44db41d3b651a7fa20f2f5",
+        "size_in_bytes": 5234
+      },
+      {
+        "_path": "share/doc/mkl/licensing/third-party-programs-level-zero.txt",
+        "path_type": "hardlink",
+        "sha256": "cfe7d2ba4b4cd53271c7f91937e906256c0f14ea62ba33ffb556664b8d39aa59",
+        "sha256_in_prefix": "cfe7d2ba4b4cd53271c7f91937e906256c0f14ea62ba33ffb556664b8d39aa59",
+        "size_in_bytes": 1124
+      },
+      {
+        "_path": "share/doc/mkl/licensing/third-party-programs-oneMath.txt",
+        "path_type": "hardlink",
+        "sha256": "2ba4e9858c253331691370f4e8e3899ca6a5baa20907f189f5970635870b860d",
+        "sha256_in_prefix": "2ba4e9858c253331691370f4e8e3899ca6a5baa20907f189f5970635870b860d",
+        "size_in_bytes": 6777
+      },
+      {
+        "_path": "share/doc/mkl/licensing/third-party-programs-oneTBB.txt",
+        "path_type": "hardlink",
+        "sha256": "d507da4fffae647ebc1bbb7e12cc5cca8087d36b0d78cc75caa96cae37688cb1",
+        "sha256_in_prefix": "d507da4fffae647ebc1bbb7e12cc5cca8087d36b0d78cc75caa96cae37688cb1",
+        "size_in_bytes": 19504
+      },
+      {
+        "_path": "share/doc/mkl/licensing/third-party-programs-openmp.txt",
+        "path_type": "hardlink",
+        "sha256": "8fdfbbdfed13bca3641da35182e7ee1bb92a99f302ce8b0deb981ac1f18adee2",
+        "sha256_in_prefix": "8fdfbbdfed13bca3641da35182e7ee1bb92a99f302ce8b0deb981ac1f18adee2",
+        "size_in_bytes": 31028
+      },
+      {
+        "_path": "share/doc/mkl/licensing/third-party-programs-safestring.txt",
+        "path_type": "hardlink",
+        "sha256": "415000d1887939ffc6826e0ed3f099cebcab6aaeda2da0acb017110a456b3d42",
+        "sha256_in_prefix": "415000d1887939ffc6826e0ed3f099cebcab6aaeda2da0acb017110a456b3d42",
+        "size_in_bytes": 2448
+      },
+      {
+        "_path": "share/doc/mkl/licensing/third-party-programs.txt",
+        "path_type": "hardlink",
+        "sha256": "a38d77d3d57579b827e3ac86cafdb71f1461a24fbd6f224e7f40e19c1bd0ea3a",
+        "sha256_in_prefix": "a38d77d3d57579b827e3ac86cafdb71f1461a24fbd6f224e7f40e19c1bd0ea3a",
+        "size_in_bytes": 64052
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "96dec1c878d6e6f835be8ed57152a37be9a5104ac79c2425815d71c64cf13ee4",
+  "size": 53362,
+  "subdir": "win-64",
+  "timestamp": 1783700628000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/onemkl-license-2026.1.0-h57928b3_233.conda",
+  "version": "2026.1.0"
+}
