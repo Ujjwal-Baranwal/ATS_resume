@@ -1,0 +1,9 @@
+streamlit 
+langchain 
+langchain-ollama 
+langchain-community 
+chromadb 
+pypdf 
+ragas 
+pandas
+numpy
